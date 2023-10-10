@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Bun And Elysia Competitor of Nodejs and Express.js**
 
-- 👨‍💻 All of my projects are available at [https://akashpedia.vercel.app/)
+- 👨‍💻 All of my projects are available at **[https://akashpedia.vercel.app/])**
 
 - 💬 Ask me about **React.js , Javascript , Backend**
 
