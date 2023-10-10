@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **Bun And Elysia Competitor of Nodejs and Express.js**
 
-- 👨‍💻 All of my projects are available at [https://125akash.github.io/Akash_resume/#about](https://125akash.github.io/Akash_resume/#about)
+- 👨‍💻 All of my projects are available at [https://akashpedia.vercel.app/)
 
 - 💬 Ask me about **React.js , Javascript , Backend**
 
 - 📫 How to reach me **sabeakash125@gmail.com**
 
-- 📄 Know about my experiences [Javascript,React,frontEnd, Backend](Javascript,React,frontEnd, Backend)
+- 📄 Know about my experiences [Javascript,React,frontEnd, Backend]
 
 - ⚡ Fun fact **I think Alot :)**
 
